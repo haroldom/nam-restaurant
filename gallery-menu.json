@@ -1,0 +1,24 @@
+{
+    "items":[
+        {
+            "name": "/Boguette",
+            "url": "src/menu1.jpg"
+        },
+        {
+            "name": "/Napples",
+            "url": "src/menu2.jpg"
+        },
+        {
+            "name": "/Ironfish",
+            "url": "src/menu3.jpg"
+        },
+        {
+            "name": "/Pigueon Braze",
+            "url": "src/menu4.jpg"
+        },
+        {
+            "name": "/Rust",
+            "url": "src/menu5.jpg"
+        }
+    ]
+}
